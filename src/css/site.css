@@ -10,6 +10,7 @@
 @import "header.css";
 @import "footer.css";
 @import "highlight.css";
+@import "toc.css";
 
 .hidden {
   display: none;
